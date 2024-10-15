@@ -5,7 +5,6 @@ split-raw-chapters.js
 test.js
 translate.js
 node_modules
-split-translated-chapters
 toc-generator.js
 translated-chapters
 openrouter-translate.js
